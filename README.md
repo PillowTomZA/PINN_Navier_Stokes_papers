@@ -4,7 +4,7 @@ This repository is inspired by [Intelligent Design and Robus Learning Laboratory
 
 This is structured to first help readers gain a general understanding of Physics-Informed Neural Network, with a targeted focus on fluid-mechanics-related papers in later sections.
 
-Last updated: 2024-08-10
+Last updated: 2024-09-10
 
 
 ## Table of Content
