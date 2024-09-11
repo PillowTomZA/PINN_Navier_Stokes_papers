@@ -21,4 +21,4 @@ Last updated: 2024-09-11
 
 ## Acknowledgements
 
-This project uses code from [Project Name] by [Author Name], available at [GitHub URL] under the MIT License.
+This project uses code from [PINNpapers](https://github.com/idrl-lab/PINNpapers/tree/main) by [weipengOO98](https://github.com/idrl-lab/PINNpapers/commits?author=weipengOO98), available at https://github.com/idrl-lab/PINNpapers/tree/main under the MIT License.
