@@ -2,6 +2,13 @@
 Original code by weipengOO98
 Source: https://github.com/idrl-lab/PINNpapers/blob/main/ref_convert.py
 License: MIT License
+
+Modified by Thomas Huang
+Date of modification: 2024/09/17
+Description of changes: Fixed qt.qpa.plugin warning, where script could not find the Qt platform plugin "wayland" in "".
+                        Added script:
+                                     - import re
+                                     - os.environ['QT_QPA_PLATFORM'] = 'xcb'
 """
 #!/usr/bin/env python3
 """The script provides a GUI interface for converting bibtex to the markdown style which is used in this repo.
@@ -24,7 +31,9 @@ from PyQt5.QtWidgets import QWidget, QPushButton, QPlainTextEdit, QFormLayout, Q
 from bibtexparser.bparser import BibTexParser
 import bibtexparser
 import re
+import os
 
+os.environ['QT_QPA_PLATFORM'] = 'xcb'
 
 def handle_title(_title: str):
     _title = re.compile('[{}]').sub('', _title.strip())
