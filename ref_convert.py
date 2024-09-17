@@ -3,7 +3,7 @@ Original code by weipengOO98
 Source: https://github.com/idrl-lab/PINNpapers/blob/main/ref_convert.py
 License: MIT License
 
-Modified by Thomas Huang
+Modified by thomas.jinwei.huang72@gmail.com
 Date of modification: 2024/09/17
 Description of changes: Fixed qt.qpa.plugin warning, where script could not find the Qt platform plugin "wayland" in "".
                         Added script:
