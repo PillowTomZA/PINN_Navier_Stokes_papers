@@ -16,6 +16,20 @@ Last updated: 2024-09-11
 ## Original Paper
 1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations**, *M. Raissi, P. Perdikaris, G.E. Karniadakis*, Journal of Computational Physics, 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)][[code](https://github.com/maziarraissi/PINNs)]
 ## Literature Reviews
+1. **Deep learning in computational mechanics**, *Stefan Kollmannsberger, Davide D'Angella, Moritz Jokeit, Leon Herrmann*, **UNKNOWN_JOURNAL**, 2021. [[paper](http://dx.doi.org/10.1007/978-3-030-76587-3)]
+2. **Scientific Machine Learning Through Physics--Informed Neural
+Networks: Where we are and What's Next**, *Salvatore Cuomo, Vincenzo Schiano Di Cola, Giampaolo,
+Fabio, Gianluigi Rozza, Maziar Raissi, Piccialli,
+Francesco*, J. Sci. Comput., 2022. [[paper](https://arxiv.org/abs/2201.05624)]
+3. **The old and the new: Can physics-informed deep-learning replace
+traditional linear solvers?**, *Stefano Markidis*, Front. Big Data, 2021. [[paper](https://arxiv.org/abs/2103.09655)]
+4. **Physics-informed neural networks for heat transfer problems**, *Shengze Cai, Zhicheng Wang, Sifan Wang, Perdikaris,
+Paris, George Em Karniadakis*, J. Heat Transfer, 2021. [[paper](https://doi.org/10.1115/1.4050542)]
+5. **Physics-informed neural network (PINN) evolution and beyond: A
+systematic literature review and bibliometric analysis**, *Zaharaddeen Karami Lawal, Hayati Yassin, Daphne
+Teck Ching Lai, Azam Che Idris*, Big Data Cogn. Comput., 2022. [[paper](https://doi.org/10.3390/bdcc6040140)]
+6. **A review of physics-informed machine learning in fluid mechanics**, *Pushan Sharma, Wai Tong Chung, Bassem Akoush, Ihme,
+Matthias*, Energies, 2023. [[paper](https://doi.org/10.3390/en16052343)]
 ## Fluid Mechanics
 ## PINN Packages
 
